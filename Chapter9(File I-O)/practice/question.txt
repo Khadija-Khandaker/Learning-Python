@@ -1,0 +1,21 @@
+'''1
+Write a program to read the text from a tom a given. file poems txt and find out whether it Contains the word twinkle
+2 The game() function in a program lels a wer blay a game and returns the scote as an integer. You need to read a file 'Histere txt' which is either blank or contams the previous Hi-Score. You need to write a program to update the Hi-Sime Whenever gamel) breaks the Hi-Score.
+3
+a program to generate mulbblication tables Write a from and write to files. Place these files in a folder for for a 13-year old.
+4
+A file contains a word "Donkey" multiple times you need to write a program which replaces this word with ###### by updating the same file
+5
+Repeat program 4 for a list of such words to be censored
+6 Write va program to mine va log file and fird Out whether it contains "python"
+7
+Write va program to f find out the line rumber Where python is present from Ques 6
+EDGE
+8
+Winite a program to make a copy of a text file va
+9
+Write a program to find out whether a file is identical & matches the content of another file.
+10
+Write a program to wipe out the contents of a file wing python
+!!
+Write a bython program to rename a file to "renamed by python "tht"'''
